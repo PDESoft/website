@@ -1,2 +1,9 @@
 title: PDESoft
 description: PDE software frameworks conference
+
+# Additional exclude from processing
+exclude:
+  - .github/
+  - README.md
+  - LICENSE.md
+
