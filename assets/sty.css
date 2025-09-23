@@ -1,8 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 
-body {font-family: sans-serif; background:#E9ECEF;margin:0px;padding:0px}
-#main-content {background-color:#FFFFFF;padding:20px;width:800px;max-width:100%;margin:auto;min-height:100vh}
-header.container {text-align:center}
+body {font-family: sans-serif; background:#FFFFFF;margin:0px;padding:20px}
+header, main {width:800px;max-width:100%;margin:auto}
+main, footer {background-color:#E9ECEF}
+main {padding:20px;border-radius:25px}
+header {text-align:center;padding-bottom:30px}
+footer {position:fixed;bottom:0px;left:0px;right:0px;padding:5px;font-size:70%;text-align:center}
 h1, h2, h3, h4, h5, h6 {font-family: "Roboto", sans-serif;font-weight:300}
 h2 {font-size:300%;margin-bottom:10px;margin-top:10mm}
