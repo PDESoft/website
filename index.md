@@ -2,6 +2,8 @@ PDESoft (PDE software frameworks conference) is a conference that focusses on
 the use and development of software to solve partial differential equations.
 It takes place every two years.
 
+## PDESoft 2026
+
 PDESoft 2026 will be held in Vienna. More details will be available here soon.
 
 ## Past PDESoft conferences
