@@ -4,7 +4,7 @@ It takes place every two years.
 
 ## PDESoft 2026
 
-PDESoft 2026 will be held in Vienna. More details will be available here soon.
+PDESoft 2026 will be held in Vienna. More details can be found on [the PDESoft 2026 website](https://2026.pdesoft.org).
 
 ## Past PDESoft conferences
 
